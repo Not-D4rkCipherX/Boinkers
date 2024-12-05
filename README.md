@@ -9,7 +9,7 @@ Register Here : [Boinkers](https://t.me/boinker_bot/boinkapp?startapp=boink14934
   - Auto Claim Mining Boost
   - Auto Claim Inbox Reward
   - Auto Collect and Push Friend [y/n]
-  - Auto Complete Tasks [y/n]
+  - Auto Complete Tasks [y/n] [Deleted]
   - Auto Spin Slot Machine
   - Auto Spin Fortune of Wheel
   - Auto Open and Collect Elevator
