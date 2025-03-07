@@ -1,6 +1,6 @@
 ﻿## Boinkers BOT
  
-Register Here: 
+Register Here: https://t.me/boinker_bot/boinkapp?startapp=boink5475888734
  
 ## 🚨 Attention Before Running The Script
 - IF You are Beginner and don't understand how to use it then must watch this tutorial first:
@@ -41,8 +41,8 @@ nano proxy.txt
 ```
 
 ## Cookies: how to get Query id=> 
-- Watch This Tutorial To Get your Query id: 
-- Insert your account details in ``data.txt``,
+- Watch This Tutorial To learn how Get your Query id: 
+- Insert your query id in ``data.txt``,
 
 ```bash
 nano data.txt
