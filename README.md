@@ -40,7 +40,7 @@ nano .env
 nano proxy.txt
 ```
 
-## Cookies: how to get Query id=> 
+## Query ID: how to get Query id=> 
 - Watch This Tutorial To learn how Get your Query id: 
 - Insert your query id in ``data.txt``,
 
