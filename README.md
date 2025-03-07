@@ -41,7 +41,7 @@ nano proxy.txt
 ```
 
 ## Query ID: how to get Query id=> 
-- Watch This Tutorial To learn how Get your Query id: 
+- Watch This Tutorial To learn how Get your Query id: https://youtube.com/shorts/8iT0q6yslXY?feature=share
 - Insert your query id in ``data.txt``,
 
 ```bash
